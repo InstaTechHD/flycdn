@@ -67,8 +67,8 @@ h1, h2, h3, h4, h5, h6 {
     box-shadow: none !important 
 }
 .btn-focus:hover, .btn-primary:hover, .btn-tab.active:hover {
-    background: #41abb4 !important;
-    border-color: #41abb4 !important 
+    background: #ff0000 !important;
+    border-color: #ff0000 !important 
 }
 .btn-secondary, .btn-tab {
     background: #4a4b51 !important;
@@ -3417,7 +3417,7 @@ ul.color-list li:nth-of-type(7n+6) a {
     display: none 
 }
 .ss-list.ss-list-min .ssl-item:visited {
-    background: #41abb4 
+    background: #ff0000 
 }
 .ss-list.ss-list-min .ssl-item:visited .ssli-order {
     color: #111 
