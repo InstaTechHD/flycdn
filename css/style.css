@@ -24,7 +24,7 @@ a {
 }
 a:hover {
     transition: all .3s;
-    color: #08ebfe 
+    color: #ff0000 
 }
 img:hover {
     opacity: .4;
@@ -51,7 +51,7 @@ h1, h2, h3, h4, h5, h6 {
     padding: 1px 3px;
     font-size: 12px;
     margin: 5px 0;
-    border-bottom: 2px solid #08ebfe;
+    border-bottom: 2px solid #ff0000;
     font-weight: 400 
 }
 .hm_nav:hover {
@@ -61,9 +61,9 @@ h1, h2, h3, h4, h5, h6 {
     border-radius: 30px 
 }
 .btn-focus, .btn-primary, .btn-tab.active {
-    background: #08ebfe !important;
+    background: #ff0000 !important;
     color: #111 !important;
-    border-color: #08ebfe !important;
+    border-color: #ff0000 !important;
     box-shadow: none !important 
 }
 .btn-focus:hover, .btn-primary:hover, .btn-tab.active:hover {
@@ -183,7 +183,7 @@ h1, h2, h3, h4, h5, h6 {
     bottom: 0 
 }
 .highlight-text {
-    color: #08ebfe 
+    color: #ff0000 
 }
 .mat-icon {
     display: inline-flex;
@@ -246,7 +246,7 @@ h1, h2, h3, h4, h5, h6 {
     border-radius: 3px 
 }
 #mobile_menu.active i, #mobile_search.active i {
-    color: #08ebfe 
+    color: #ff0000 
 }
 #mobile_menu i {
     font-size: 24px;
@@ -299,13 +299,13 @@ h1, h2, h3, h4, h5, h6 {
     text-transform: uppercase 
 }
 #header_menu ul.header_menu-list .nav-item:hover>a {
-    color: #08ebfe 
+    color: #ff0000 
 }
 #header_menu ul.header_menu-list .nav-item.active>a:before {
     content: "";
     width: 100%;
     height: 3px;
-    background: #08ebfe;
+    background: #ff0000;
     position: absolute;
     bottom: 0;
     left: 0;
@@ -346,7 +346,7 @@ h1, h2, h3, h4, h5, h6 {
     text-overflow: ellipsis 
 }
 #header_menu .header_menu-sub ul.sub-menu li:hover a {
-    background: #08ebfe;
+    background: #ff0000;
     color: #111 !important 
 }
 .header-group {
@@ -426,13 +426,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 #header .btn-on-header:hover {
     background: 0;
-    color: #08ebfe !important 
+    color: #ff0000 !important 
 }
 #header #search-toggle .btn-on-header {
     font-size: 20px 
 }
 #header #search-toggle.active .btn-on-header {
-    background: #08ebfe;
+    background: #ff0000;
     color: #111 
 }
 #pick_menu {
@@ -515,7 +515,7 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 14px;
     font-weight: 600;
     margin-bottom: 5px;
-    color: #08ebfe 
+    color: #ff0000 
 }
 .header_right-user.logged .dropdown-menu {
     width: 300px;
@@ -536,7 +536,7 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 12px 
 }
 .header_right-user.logged .dropdown-menu .dropdown-item:hover {
-    color: #08ebfe !important 
+    color: #ff0000 !important 
 }
 .header_right-user.logged .dropdown-menu .dropdown-item-user {
     padding: 12px 15px 
@@ -571,7 +571,7 @@ h1, h2, h3, h4, h5, h6 {
     position: relative 
 }
 .hr-notifications.show .hrn-icon {
-    color: #08ebfe 
+    color: #ff0000 
 }
 .hr-notifications .hrn-icon .number {
     position: absolute;
@@ -742,7 +742,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .search-content .search-result-pop .nav-bottom {
     padding: 15px;
-    background: #08ebfe !important;
+    background: #ff0000 !important;
     font-size: 16px;
     color: #111;
     text-align: center;
@@ -784,12 +784,12 @@ h1, h2, h3, h4, h5, h6 {
     border: 1px solid #4a4c55 
 }
 .btn-sm.btn-filter-item:hover, .btn-sm.nl-item-btn:hover {
-    color: #08ebfe 
+    color: #ff0000 
 }
 .btn-sm.btn-filter-item.active {
-    border-color: #08ebfe;
+    border-color: #ff0000;
     background: #3d3e39;
-    color: #08ebfe 
+    color: #ff0000 
 }
 .btn-sm.nl-item-btn {
     border: 0 
@@ -809,7 +809,7 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 400;
     padding: 0;
     margin: 0;
-    color: #08ebfe 
+    color: #ff0000 
 }
 .block_area .block_area-header .viewmore .btn {
     padding: 1px 3px;
@@ -874,11 +874,11 @@ h1, h2, h3, h4, h5, h6 {
     border-bottom: 2px solid transparent 
 }
 .pre-tabs .nav-item .nav-link:hover {
-    color: #08ebfe 
+    color: #ff0000 
 }
 .pre-tabs .nav-item .nav-link.active {
-    color: #08ebfe;
-    border-color: #08ebfe 
+    color: #ff0000;
+    border-color: #ff0000 
 }
 .pre-tabs-min {
     margin-bottom: 15px 
@@ -897,7 +897,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .pre-tabs-min .nav-item .nav-link.active {
     color: #000 !important;
-    background: #08ebfe !important 
+    background: #ff0000 !important 
 }
 .anw-tabs {
     border-bottom: 0;
@@ -919,7 +919,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .anw-tabs .nav-item .nav-link.active {
     background: #51535b;
-    color: #08ebfe 
+    color: #ff0000 
 }
 .bah-tab-min .anw-tabs {
     margin: 2px 0 0 
@@ -929,7 +929,7 @@ h1, h2, h3, h4, h5, h6 {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: #08ebfe 
+    color: #ff0000 
 }
 .film_list {
     display: block 
@@ -1164,10 +1164,10 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 1em 
 }
 .pre-pagination .pagination .page-item .page-link:hover {
-    color: #08ebfe 
+    color: #ff0000 
 }
 .pre-pagination .pagination .page-item.active .page-link {
-    background: #08ebfe;
+    background: #ff0000;
     color: #111;
     cursor: default 
 }
@@ -1228,7 +1228,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .premodal .modal-content .close:hover {
     opacity: 1;
-    background: #08ebfe;
+    background: #ff0000;
     color: #111 
 }
 .premodal .modal-content .modal-body {
@@ -1276,7 +1276,7 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 1.5rem 
 }
 .link-highlight {
-    color: #08ebfe !important;
+    color: #ff0000 !important;
     cursor: pointer 
 }
 .modal-logo {
@@ -1348,7 +1348,7 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 600 
 }
 #sidebar_menu .sidebar_menu-list>.nav-item>a.nav-link:hover {
-    color: #08ebfe 
+    color: #ff0000 
 }
 #sidebar_menu .sidebar_menu-list>.nav-item>.toggle-submenu {
     position: absolute;
@@ -1637,7 +1637,7 @@ ul.az-list li a {
 }
 ul.az-list li a:hover, ul.az-list li.active a {
     color: #111;
-    background: #08ebfe 
+    background: #ff0000 
 }
 .main-az {
     margin-bottom: 20px 
@@ -1673,7 +1673,7 @@ ul.az-list li a:hover, ul.az-list li.active a {
     line-height: 1.3em;
     margin: 0 0 15px;
     font-weight: 400;
-    color: #08ebfe 
+    color: #ff0000 
 }
 .btn-xs {
     font-size: 12px;
@@ -1822,7 +1822,7 @@ ul.az-list li a:hover, ul.az-list li.active a {
     color: #fff 
 }
 .text-home a {
-    color: #08ebfe 
+    color: #ff0000 
 }
 .text-home .btn-expand {
     display: none 
@@ -1904,7 +1904,7 @@ ul.az-list li a:hover, ul.az-list li.active a {
 }
 .noti-list .noti-item.new .icon {
     opacity: 1;
-    color: #08ebfe 
+    color: #ff0000 
 }
 .noti-list .noti-item.new {
     background: #fff;
@@ -2032,7 +2032,7 @@ ul.az-list li a:hover, ul.az-list li.active a {
     line-height: 1.3em;
     font-weight: 400;
     margin-bottom: 20px;
-    color: #08ebfe 
+    color: #ff0000 
 }
 .deslide-item .desi-head-title {
     font-size: 60px;
@@ -2128,7 +2128,7 @@ ul.az-list li a:hover, ul.az-list li.active a {
 .anif-block .anif-block-header {
     font-size: 18px;
     font-weight: 500;
-    color: #08ebfe;
+    color: #ff0000;
     padding: 15px 20px 
 }
 .anif-block-ul li {
@@ -2185,7 +2185,7 @@ ul.az-list li a:hover, ul.az-list li.active a {
     opacity: .5 
 }
 .anif-block-ul li .film-fav.active, .anif-block-ul li .film-fav:hover {
-    color: #08ebfe;
+    color: #ff0000;
     opacity: 1 
 }
 .anif-block-ul li .film-play {
@@ -2194,7 +2194,7 @@ ul.az-list li a:hover, ul.az-list li.active a {
     font-size: 14px 
 }
 .anif-block-ul li .film-play:hover {
-    color: #08ebfe 
+    color: #ff0000 
 }
 .anif-block .more a {
     display: block;
@@ -2338,7 +2338,7 @@ ul.color-list li:nth-of-type(7n+6) a {
     display: inline-block 
 }
 .cbox.cbox-list .anif-block-chart li.item-top .film-number span {
-    border-bottom: 3px solid #08ebfe;
+    border-bottom: 3px solid #ff0000;
     padding-bottom: 6px;
     color: #fff 
 }
@@ -2485,7 +2485,7 @@ ul.color-list li:nth-of-type(7n+6) a {
     color: #888 
 }
 .table_schedule .table_schedule-list li:hover .film-detail .fd-play .btn-play {
-    background: #08ebfe;
+    background: #ff0000;
     color: #111 
 }
 .table_schedule .table_schedule-list li:hover .film-detail .fd-play .btn-play i {
@@ -2495,7 +2495,7 @@ ul.color-list li:nth-of-type(7n+6) a {
     background: #3e4048 !important 
 }
 .table_schedule .table_schedule-list li:hover .time {
-    color: #08ebfe 
+    color: #ff0000 
 }
 .table_schedule .table_schedule-date {
     padding: 20px 30px;
@@ -2515,7 +2515,7 @@ ul.color-list li:nth-of-type(7n+6) a {
     background: #3e4048 
 }
 .table_schedule .table_schedule-date .tsd-item.active {
-    background: #08ebfe;
+    background: #ff0000;
     color: #111 
 }
 .table_schedule .table_schedule-date .tsd-item.active .date {
@@ -2535,7 +2535,7 @@ ul.color-list li:nth-of-type(7n+6) a {
     padding: 15px 
 }
 .table_schedule .btn-showmore:hover {
-    color: #08ebfe !important 
+    color: #ff0000 !important 
 }
 .table_schedule-list.limit-8 li:nth-of-type(n+8) {
     display: none 
@@ -2892,11 +2892,11 @@ ul.color-list li:nth-of-type(7n+6) a {
     display: none 
 }
 .player-controls .pc-item.pc-comment .btn i {
-    color: #08ebfe 
+    color: #ff0000 
 }
 .player-controls .pc-item.pc-comment .btn span {
     font-weight: 600;
-    color: #08ebfe 
+    color: #ff0000 
 }
 .dub-toggle {
     position: relative;
@@ -2933,7 +2933,7 @@ ul.color-list li:nth-of-type(7n+6) a {
     font-weight: 500 
 }
 .dub-toggle.active .dt-status {
-    background: #08ebfe;
+    background: #ff0000;
     color: #111 
 }
 .dub-toggle.active .dt-status:before {
@@ -3127,7 +3127,7 @@ ul.color-list li:nth-of-type(7n+6) a {
 }
 .cfc-min-block .cmb-item .btn-sm {
     border: 0;
-    color: #08ebfe;
+    color: #ff0000;
     font-size: 12px;
     line-height: 1.1em;
     background: 0;
@@ -3197,7 +3197,7 @@ ul.color-list li:nth-of-type(7n+6) a {
     left: 0;
     bottom: 0;
     width: 4px;
-    background: #08ebfe 
+    background: #ff0000 
 }
 .ss-list .ssl-item .ssli-order {
     width: 20px;
@@ -3274,13 +3274,13 @@ ul.color-list li:nth-of-type(7n+6) a {
     color: #777 
 }
 .ss-list .ssl-item.active .ssli-order {
-    color: #08ebfe !important 
+    color: #ff0000 !important 
 }
 .ss-list .ssl-item.active .ssli-btn {
     opacity: 1 
 }
 .ss-list .ssl-item.active .ssli-btn .btn.btn-circle {
-    background: #08ebfe;
+    background: #ff0000;
     color: #111 
 }
 .ss-list .ssl-item.active .ssli-detail .ep-name {
@@ -3426,7 +3426,7 @@ ul.color-list li:nth-of-type(7n+6) a {
     display: none 
 }
 .ss-list.ss-list-min .ssl-item.active {
-    background: #08ebfe !important 
+    background: #ff0000 !important 
 }
 .ss-list.ss-list-min .ssl-item.active .ssli-order {
     color: #111 !important 
@@ -3551,7 +3551,7 @@ ul.color-list li:nth-of-type(7n+6) a {
     color: #fff 
 }
 .inbox-item.new .highlight-text {
-    color: #08ebfe 
+    color: #ff0000 
 }
 .inbox-item.with-poster {
     padding-left: 120px;
@@ -3654,7 +3654,7 @@ ul.color-list li:nth-of-type(7n+6) a {
 .nli-select .custom-select {
     font-size: 12px;
     cursor: pointer;
-    color: #08ebfe;
+    color: #ff0000;
     background: #33353c;
     border: 0;
     max-width: 140px;
@@ -3958,7 +3958,7 @@ ul.color-list li:nth-of-type(7n+6) a {
 }
 .stx-center .stx-title {
     margin: 0;
-    color: #08ebfe 
+    color: #ff0000 
 }
 .stx-center .description {
     margin: 20px auto 0;
@@ -4005,7 +4005,7 @@ ul.color-list li:nth-of-type(7n+6) a {
     color: #fff 
 }
 .zr-news .item .zrn-title:hover {
-    color: #08ebfe 
+    color: #ff0000 
 }
 .zr-news .item .zrn-title .news-title {
     font-size: 14px;
@@ -4097,7 +4097,7 @@ ul.color-list li:nth-of-type(7n+6) a {
     font-size: 2.5em !important;
     font-weight: 600;
     margin-bottom: 15px;
-    color: #08ebfe 
+    color: #ff0000 
 }
 .news-article .article-content h1 {
     font-size: 2em !important;
@@ -4215,7 +4215,7 @@ ul.color-list li:nth-of-type(7n+6) a {
     margin-top: 10px 
 }
 .block-rating .rating-result .progress .progress-bar {
-    background-color: #08ebfe !important 
+    background-color: #ff0000 !important 
 }
 .block-rating .rating-result .rr-mark strong {
     font-size: 16px;
@@ -4298,7 +4298,7 @@ ul.color-list li:nth-of-type(7n+6) a {
     width: 60px;
     text-align: center;
     transform: translateY(-50%);
-    color: #08ebfe 
+    color: #ff0000 
 }
 .dt-comment:before {
     content: "";
@@ -4371,7 +4371,7 @@ ul.color-list li:nth-of-type(7n+6) a {
     color: #fff 
 }
 .cw_l-line .ibody p a.tag-name {
-    color: #08ebfe 
+    color: #ff0000 
 }
 .cw_l-line .ibody.is-spoil p {
     display: none 
@@ -4395,10 +4395,10 @@ ul.color-list li:nth-of-type(7n+6) a {
     font-size: .9em 
 }
 .cw_l-line .ibottom .ib-li .btn:hover {
-    color: #08ebfe 
+    color: #ff0000 
 }
 .cw_l-line .ibottom .ib-li .btn.active {
-    color: #08ebfe 
+    color: #ff0000 
 }
 .cw_l-line .ibottom .ib-li.ib-like .btn.active i::before {
     font-weight: 900 
@@ -4423,7 +4423,7 @@ ul.color-list li:nth-of-type(7n+6) a {
     font-size: 11px 
 }
 .rep-more .btn {
-    color: #08ebfe;
+    color: #ff0000;
     font-size: 13px;
     font-weight: 600;
     padding: 0;
@@ -4518,7 +4518,7 @@ ul.color-list li:nth-of-type(7n+6) a {
     font-size: 0 
 }
 .cb-li .btn.btn-spoil.active i {
-    background-color: #08ebfe;
+    background-color: #ff0000;
     color: #111;
     font-size: 10px 
 }
@@ -4535,7 +4535,7 @@ ul.color-list li:nth-of-type(7n+6) a {
     line-height: 30px 
 }
 .toggle-basic .tb-result {
-    color: #08ebfe;
+    color: #ff0000;
     font-weight: 500;
     margin-left: 3px;
     width: 19px 
@@ -4607,7 +4607,7 @@ ul.color-list li:nth-of-type(7n+6) a {
     width: 18px;
     height: 18px;
     left: calc(100% - 18px);
-    background: #08ebfe 
+    background: #ff0000 
 }
 .hs-toggles .hst-item .hst-icon {
     height: 20px;
@@ -4619,7 +4619,7 @@ ul.color-list li:nth-of-type(7n+6) a {
 .hs-toggles .hst-item .hst-icon i {
     font-size: 20px;
     line-height: 20px;
-    color: #08ebfe 
+    color: #ff0000 
 }
 .toggle-lang {
     display: inline-block;
@@ -4640,7 +4640,7 @@ ul.color-list li:nth-of-type(7n+6) a {
     float: left 
 }
 .toggle-lang>span.en {
-    background: #08ebfe;
+    background: #ff0000;
     color: #111 
 }
 .toggle-lang.off>span.en {
@@ -4648,7 +4648,7 @@ ul.color-list li:nth-of-type(7n+6) a {
     color: #fff 
 }
 .toggle-lang.off>span.jp {
-    background: #08ebfe;
+    background: #ff0000;
     color: #111 
 }
 #big-search {
@@ -4778,7 +4778,7 @@ ul.color-list li:nth-of-type(7n+6) a {
     color: #fff 
 }
 .new-noti-list .nnl-item.new strong.manga-name {
-    color: #08ebfe 
+    color: #ff0000 
 }
 .new-noti-list .nnl-item .time {
     display: block;
@@ -4792,7 +4792,7 @@ ul.color-list li:nth-of-type(7n+6) a {
     color: #fff 
 }
 .new-noti-list .nnl-item.nnl-more:hover {
-    color: #08ebfe 
+    color: #ff0000 
 }
 .new-noti-list .nnl-mark {
     padding: 10px 15px;
@@ -4803,7 +4803,7 @@ ul.color-list li:nth-of-type(7n+6) a {
     font-size: 12px 
 }
 .new-noti-list .nnl-mark .btn-xs:hover {
-    color: #08ebfe 
+    color: #ff0000 
 }
 .trending-list {
     padding-right: 60px;
@@ -4839,7 +4839,7 @@ ul.color-list li:nth-of-type(7n+6) a {
     top: auto 
 }
 .trending-navi>div:hover {
-    background: #08ebfe;
+    background: #ff0000;
     color: #111 
 }
 .trending-navi>div>i {
@@ -4888,7 +4888,7 @@ ul.color-list li:nth-of-type(7n+6) a {
     font-size: 24px;
     line-height: 1em;
     text-align: center;
-    color: #08ebfe;
+    color: #ff0000;
     z-index: 9;
     left: 0;
     right: 0 
@@ -4950,14 +4950,14 @@ ul.color-list li:nth-of-type(7n+6) a {
     font-size: 12px;
     float: left;
     padding: 2px 0 2px 20px;
-    border-left: 2px solid #08ebfe;
+    border-left: 2px solid #ff0000;
     margin-right: 20px;
     position: relative 
 }
 .share-buttons .share-buttons-block .sbb-title span {
     font-weight: 600;
     font-size: 14px;
-    color: #08ebfe 
+    color: #ff0000 
 }
 .share-buttons .share-buttons-block .addthis_inline_share_toolbox {
     float: left;
@@ -5487,14 +5487,14 @@ ul.color-list li:nth-of-type(7n+6) a {
     color: #aaa 
 }
 .screen-items .item:hover .icon-play {
-    background: #08ebfe;
-    border-color: #08ebfe 
+    background: #ff0000;
+    border-color: #ff0000 
 }
 .screen-items .item:hover .icon-play i {
     color: #111 
 }
 .screen-items .item:hover .sii-title {
-    color: #08ebfe 
+    color: #ff0000 
 }
 .premodal.premodal-video .modal-content .modal-body {
     padding: 0 10px 10px 
@@ -5669,7 +5669,7 @@ ul.color-list li:nth-of-type(7n+6) a {
 }
 .live__-wrap .item .live-info .owner .uc-info strong {
     font-weight: 600;
-    color: #08ebfe;
+    color: #ff0000;
     max-width: 110px;
     display: block;
     float: left 
@@ -5839,7 +5839,7 @@ ul.color-list li:nth-of-type(7n+6) a {
     background: 0 0 !important 
 }
 .choose-type .pre-tabs-min .nav-item .nav-link.active {
-    background: #08ebfe !important 
+    background: #ff0000 !important 
 }
 .choose-name .form-control {
     box-shadow: none !important;
@@ -5902,7 +5902,7 @@ ul.color-list li:nth-of-type(7n+6) a {
     margin-bottom: 15px 
 }
 .live___-detail .film-name .ep-style {
-    color: #08ebfe 
+    color: #ff0000 
 }
 .live___-detail .film-stats {
     margin-bottom: 15px 
@@ -5967,7 +5967,7 @@ ul.color-list li:nth-of-type(7n+6) a {
 .live_-start .ls__-tabs li a.nav-link.active {
     background: 0 0 !important;
     padding: 0;
-    color: #08ebfe !important 
+    color: #ff0000 !important 
 }
 .live_-start .ls__-tabs li a.nav-link.active i, .live_-start .ls__-tabs li a.nav-link:hover i {
     opacity: 1 
@@ -6140,7 +6140,7 @@ ul.color-list li:nth-of-type(7n+6) a {
     line-height: 1.4em 
 }
 .ls___-animeinfo .film-info .film-name .ep-style {
-    color: #08ebfe 
+    color: #ff0000 
 }
 .ls___-animeinfo .film-info .film-description {
     margin-bottom: 15px;
@@ -6202,7 +6202,7 @@ ul.color-list li:nth-of-type(7n+6) a {
     letter-spacing: 1px 
 }
 .ls___-detail .live-stats .item.item-online {
-    color: #08ebfe 
+    color: #ff0000 
 }
 .ls___-detail .live-stats .item.item-online span:after {
     content: " viewers" 
@@ -6305,7 +6305,7 @@ ul.color-list li:nth-of-type(7n+6) a {
 .ls___-chatbox .chatbox_wrap .chatbox_-input .form-control-textarea:focus {
     background: #252c44;
     border-color: transparent;
-    box-shadow: 0 0 0 2px #08ebfe 
+    box-shadow: 0 0 0 2px #ff0000 
 }
 .ls___-chatbox .chatbox_wrap .chatbox_-input .form-control-textarea::placeholder {
     color: #7c83a6 
@@ -6373,14 +6373,14 @@ ul.color-list li:nth-of-type(7n+6) a {
     cursor: pointer 
 }
 .chatbox_-room .item.item-mine .ic_text .name {
-    color: #08ebfe 
+    color: #ff0000 
 }
 .chatbox_-room .item.item-mine:before {
     content: "";
     width: 6px;
     height: 6px;
     border-radius: 50%;
-    background: #08ebfe;
+    background: #ff0000;
     position: absolute;
     top: 10px;
     left: -13px 
@@ -6557,7 +6557,7 @@ ul.color-list li:nth-of-type(7n+6) a {
 .ls___-player-cd .player-countdown .countdown-style {
     font-size: 3em;
     font-weight: 700;
-    color: #08ebfe 
+    color: #ff0000 
 }
 .ls___-player .pc-share {
     margin-top: 30px;
@@ -6569,7 +6569,7 @@ ul.color-list li:nth-of-type(7n+6) a {
     display: inline-block 
 }
 .ls___-player .pc-share a {
-    color: #08ebfe;
+    color: #ff0000;
     font-weight: 600 
 }
 .ls___-player .center-block {
@@ -6719,7 +6719,7 @@ ul.color-list li:nth-of-type(7n+6) a {
     bottom: 0 
 }
 .choose-thumbnail .lv-list .item.active {
-    border-color: #08ebfe;
+    border-color: #ff0000;
     z-index: 2;
     opacity: 1;
     box-shadow: 0 20px 20px rgba(0, 0, 0, .2) 
@@ -6748,7 +6748,7 @@ ul.color-list li:nth-of-type(7n+6) a {
     right: auto;
     width: 230px;
     border-radius: 6px 0 0 6px;
-    background: #08ebfe 
+    background: #ff0000 
 }
 .player-servers .ps_-status .server-notice {
     position: absolute;
@@ -6807,7 +6807,7 @@ ul.color-list li:nth-of-type(7n+6) a {
 .player-servers .ps_-block .ps__-title i {
     width: 16px;
     text-align: left;
-    color: #08ebfe 
+    color: #ff0000 
 }
 .player-servers .ps_-block .small {
     font-size: 13px;
@@ -6816,7 +6816,7 @@ ul.color-list li:nth-of-type(7n+6) a {
 }
 .player-servers .ps_-block .small strong {
     font-weight: 600;
-    color: #08ebfe 
+    color: #ff0000 
 }
 .ps__-list .item {
     float: left;
@@ -6833,7 +6833,7 @@ ul.color-list li:nth-of-type(7n+6) a {
     border: none !important 
 }
 .ps__-list .item .btn.active {
-    background: #08ebfe;
+    background: #ff0000;
     color: #111 
 }
 .showmodal .modal-content {
@@ -6919,7 +6919,7 @@ span#AddMalDiv {
 span#AddMalDiv #AddMal {
     font-size: 12px;
     font-weight: 600;
-    color: #08ebfe !important 
+    color: #ff0000 !important 
 }
 .fav-tabs {
     clear: both;
@@ -7300,7 +7300,7 @@ span#AddMalDiv #AddMal {
     line-height: 30px;
     text-align: center;
     border-radius: 50%;
-    background: #08ebfe;
+    background: #ff0000;
     color: #111;
     z-index: 2;
     box-shadow: 0 0 5px rgba(0, 0, 0, .4);
@@ -7326,7 +7326,7 @@ span#AddMalDiv #AddMal {
     line-height: 18px !important 
 }
 .pre-tabs-hashtag .nav-item .nav-link.active {
-    color: #08ebfe !important;
+    color: #ff0000 !important;
     background: 0 0 !important 
 }
 #toast-container>div {
@@ -7356,7 +7356,7 @@ span#AddMalDiv #AddMal {
     box-shadow: 0 0 15px rgba(0, 0, 0, .3) 
 }
 #toast-container>div.toast-success {
-    background-color: #08ebfe !important;
+    background-color: #ff0000 !important;
     color: #000 !important;
     background-image: none !important 
 }
@@ -7684,7 +7684,7 @@ span#AddMalDiv #AddMal {
 .pre-qtip-button .btn.btn-play {
     width: calc(100% - 48px);
     color: #111;
-    background: #08ebfe 
+    background: #ff0000 
 }
 .pre-qtip-button .dr-tip-fav {
     float: right;
@@ -7791,7 +7791,7 @@ span#AddMalDiv #AddMal {
 #slider .sc-detail .scd-item .quality {
     display: inline-block;
     padding: 3px 4px;
-    background: #08ebfe;
+    background: #ff0000;
     color: #111;
     border-radius: 3px;
     line-height: 1em;
@@ -8245,7 +8245,7 @@ span#AddMalDiv #AddMal {
     margin: 3px 0 
 }
 .swiper-button:hover {
-    background: #08ebfe;
+    background: #ff0000;
     color: #111 
 }
 @media screen and (max-width:1800px) {
@@ -9819,7 +9819,7 @@ span#AddMalDiv #AddMal {
         margin-bottom: 5px 
     }
     .player-servers .ps_-status .server-notice strong b {
-        color: #08ebfe;
+        color: #ff0000;
         margin-top: 5px 
     }
     .player-servers #servers-content {
